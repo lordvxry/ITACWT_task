@@ -1,0 +1,19 @@
+.search-bar_container {
+  display: flex;
+  padding-bottom: 20px;
+  justify-content: space-between;
+  overflow-y: auto;
+}
+
+.search-bar_filter-panel {
+  display: flex;
+  gap: 10px;
+}
+
+.search-bar_filter-panel input {
+  width: 200px;
+}
+
+.search-bar_filter-panel__select {
+  width: 100px;
+}
